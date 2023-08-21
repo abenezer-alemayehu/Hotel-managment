@@ -1,1 +1,1 @@
-# Hotel-managment
+# Hotel-managment project
